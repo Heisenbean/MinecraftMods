@@ -20,7 +20,12 @@
 
 > 意志坚定模组,增加游戏难度,增加天四季,人体水分和体温等.
 
+-
 
+-  **[Just Enough Items](https://mods.curse.com/mc-mods/minecraft/238222-just-enough-items-jei
+)**
+
+> 快速查看配方.
 
 - **[Malisisdoors](https://mods.curse.com/mc-mods/minecraft/223891-malisisdoors)**
 
@@ -52,7 +57,7 @@
  
 -
 
-- **[BiomesOPlenty]()**
+- **[BiomesOPlenty](https://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty)**
 
 > 多态生物群模组,会添加很多动植物
 
