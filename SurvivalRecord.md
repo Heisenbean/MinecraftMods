@@ -30,3 +30,24 @@
 
 能不能做成温室大棚种庄稼,等后面更新.
 
+-
+####死了两次
+时间计时归零  
+之后做的事情,做着做着`加热器`,发现来到了春天,做加热器就先搁置.
+决定去地狱一趟,找了半天没发现峡谷..却在找岩浆的路上被苦力怕炸死两次...
+心塞  
+
+😞
+🛀&🍚.
+
+-
+####7-17天
+死了好多次...有图为证  
+1. 做了`压缩机`,用烈焰粉通过压缩机做出烈焰棒.还做了`热力发电机`和`采矿机`,但是采矿机不会用了...   
+2. 在基地附近挖到了峡谷...刚探索一点点  
+3. 做了雨水搜集器,收集来的水可以直接喝,但是就是不下雨了...  
+4. 用发现一批骷髅马..并将其封起来了.  
+<img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/1.png"/>
+<img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/2.png"/>
+<img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/3.png"/>
+<img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/4.png"/>
