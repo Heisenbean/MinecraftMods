@@ -43,11 +43,17 @@
 -
 ####7-17天
 死了好多次...有图为证  
-1. 做了`压缩机`,用烈焰粉通过压缩机做出烈焰棒.还做了`热力发电机`和`采矿机`,但是采矿机不会用了...   
+1. 做了`压缩机`,用烈焰粉通过压缩机做出烈焰棒.还做了`火力发电机`和`采矿机`,但是采矿机不会用了...   
 2. 在基地附近挖到了峡谷...刚探索一点点  
 3. 做了雨水搜集器,收集来的水可以直接喝,但是就是不下雨了...  
 4. 用发现一批骷髅马..并将其封起来了.  
 <img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/1.png"/>
 <img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/2.png"/>
 <img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/3.png"/>
-<img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/4.png"/>
+<img src="https://github.com/Heisenbean/MinecraftMods/raw/master/screenshots/4.png"/>  
+
+#####17-34天
+又死了很多次....大多是苦力怕.  
+1. 做了挺多的机器,火力发电机,地热发电机,打粉机,抽取机,电炉.  
+2. 死了N次终于下了大峡谷,挖了黑曜石,做了下界传送门,去地狱了一会儿,赶紧回来了,太危险..  
+3. 把基地围起来了,晚上再也不用睡过去了...
