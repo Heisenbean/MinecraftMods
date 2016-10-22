@@ -2,7 +2,7 @@
 #### 整理一些实用的mod,大多来源于[Curse](https://mods.curse.com/mc-mods/minecraft),[MCBBS](http://www.mcbbs.net/forum.php)以及[籽岷的模组介绍](https://www.youtube.com/channel/UCcoFfcnFhz1DB9pg7TiZotQ),也欢迎大家补充一些实用的mod :)
 
 >##### 游戏版本1.10.2.  
-##### Forge版本
+##### Forge版本2095
 
 - **[Waila](https://mods.curse.com/mc-mods/minecraft/waila)** 
 
@@ -157,4 +157,16 @@
 
 - **[Time HUD](https://mods.curse.com/mc-mods/minecraft/239110-time-hud)**
 
-> 显示时间的模组.
+> 显示时间的模组.  
+
+-
+ 
+- **[JurassiCraft](https://mods.curse.com/mc-mods/minecraft/226719-jurassicraft-2-0)**
+
+> 侏罗纪公园模组,可玩性比较高的一个模组.  
+
+-
+ 
+- **[Iron Chests](https://mods.curse.com/mc-mods/minecraft/228756-iron-chests#t1:other-downloads)**
+
+> 多种箱子模组,配合匠魂或者其他增加矿物的模组,可制作铜箱子,铁箱子,银箱子之类的.
