@@ -170,3 +170,16 @@
 - **[Iron Chests](https://mods.curse.com/mc-mods/minecraft/228756-iron-chests#t1:other-downloads)**
 
 > 多种箱子模组,配合匠魂或者其他增加矿物的模组,可制作铜箱子,铁箱子,银箱子之类的.
+
+-
+ 
+- **[Viescraft](https://mods.curse.com/mc-mods/minecraft/246795-viescraft)**
+
+> 热气球模组.  
+
+-
+ 
+- **[WaterStrainer](https://mods.curse.com/mc-mods/minecraft/246939-water-strainer)**
+
+> 过滤器模组,放到水里可以过滤到沙子,金粒等.
+
